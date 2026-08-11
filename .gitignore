@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.env
+.venv
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Streamlit
+.streamlit/
+
+# Chroma DB
+chroma_db/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sample documents (optional)
+# sample_documents/
